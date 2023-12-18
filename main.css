@@ -1,0 +1,33 @@
+h1 {
+	color: #E96251;
+}
+
+
+	h3 {
+	color: red;
+	
+	}
+
+@media only screen and (max-width: 600px) {
+  h1 h2{
+    font-size: 20px;
+  }
+}
+
+
+p, marquee {
+	font-size: 20px;
+
+}
+
+p {
+	font-family: Helvetica;
+
+
+}
+
+.dop {
+	color: red;
+	text-decoration: underline;
+	text-decoration-color: blue;
+}
